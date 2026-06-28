@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 # 🌌 Hi, I'm Aishwarya G 👋
@@ -252,4 +252,4 @@ FastAPI • PostgreSQL • Redis • Celery • Whisper • ChromaDB
 ### 🚀 Let's Build Something Amazing Together 🚀
 
 </div>
-````
+

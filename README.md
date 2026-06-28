@@ -1,255 +1,82 @@
+# Hi, I'm Aishwarya G 👋
 
-<div align="center">
+**AI/ML Engineer | Backend Developer | Computer Science Student**
 
-# 🌌 Hi, I'm Aishwarya G 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Backend+Developer;Agentic+AI+%7C+RAG+Developer;FastAPI+%7C+React+Developer;Always+Learning+Something+New+🚀" />
-
-### 💫 Building Intelligent AI Systems using Agentic AI, RAG & Modern Backend Technologies
-
-<img src="https://komarev.com/ghpvc/?username=Aishu1824&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
-
-</div>
+I'm a Computer Science student at **Chennai Institute of Technology** with an interest in **Artificial Intelligence, Agentic AI, Retrieval-Augmented Generation (RAG), Machine Learning, and Backend Development**. I enjoy building intelligent systems that solve real-world problems.
 
 ---
 
-# 🌠 About Me
+## 🚀 Projects
 
-```yaml
-Name        : Aishwarya G
-Education   : B.E Computer Science & Engineering
-College     : Chennai Institute of Technology
-CGPA        : 9.01
-Focus Areas : AI • Agentic AI • RAG • Backend Development
-Currently   : Building Enterprise AI Applications
-```
+### Enterprise Support Intelligence Agent
 
----
+* Built an AI-powered enterprise support platform using **React.js, FastAPI, Gemini, and RAG**.
+* Designed a multi-agent architecture with Response, Hallucination Guard, Policy Compliance, Missing Information, and Escalation Agents.
+* Implemented semantic document retrieval using **Sentence Transformers** and **FAISS**.
+* Integrated **OpenTelemetry** for observability and workflow tracing.
 
-# 🚀 Tech Universe
-
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,mysql"/>
-</p>
-
-### 🤖 AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-</p>
-
-- LangChain
-- Gemini API
-- FAISS
-- Sentence Transformers
-- Whisper
-- OpenTelemetry
-- RAG
-- Agentic AI
+**Tech:** React.js • FastAPI • Gemini API • LangChain • FAISS • Sentence Transformers • OpenTelemetry
 
 ---
 
-### ⚡ Backend
+### AI-Powered Meeting Management Platform
 
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express"/>
-</p>
+* Developed an AI meeting assistant for transcription, summarization, sentiment analysis, and semantic search.
+* Built secure REST APIs with **FastAPI**, **JWT Authentication**, and **PostgreSQL**.
+* Implemented asynchronous processing using **Celery** and **Redis**.
 
-- REST APIs
-- JWT Authentication
-- SQLAlchemy
-- Async Processing
-- Celery
+**Tech:** React.js • FastAPI • PostgreSQL • Redis • Celery • Whisper • ChromaDB
 
 ---
 
-### 🎨 Frontend
+### Parkinson Disease Detection
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css"/>
-</p>
+* Developed a machine learning model for Parkinson's disease detection from voice recordings.
+* Achieved **90% accuracy** using **Librosa** and **Scikit-learn**.
 
----
-
-### 🗄 Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis"/>
-</p>
+**Tech:** Python • Scikit-learn • NumPy • Pandas • Librosa
 
 ---
 
-### 🛠 Tools
+## 💻 Technical Skills
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,postman"/>
-</p>
+**Languages**
 
----
+* Python • C++ • Java • JavaScript • SQL
 
-# 🌌 Featured Projects
+**Frontend**
 
-## 🧠 Enterprise Support Intelligence Agent
+* React.js • HTML • CSS • Tailwind CSS
 
-✨ AI-powered enterprise support platform
+**Backend**
 
-✔ Multi-Agent Architecture
+* FastAPI • Node.js • Express.js • REST APIs • JWT
 
-✔ Retrieval-Augmented Generation (RAG)
+**AI / ML**
 
-✔ Policy Compliance Agent
+* TensorFlow • PyTorch • Scikit-learn • LangChain • RAG
 
-✔ Hallucination Detection
+**Databases**
 
-✔ Escalation Agent
+* PostgreSQL • MongoDB • MySQL • Redis
 
-✔ OpenTelemetry Monitoring
+**Tools**
 
-**Tech Stack**
-
-FastAPI • React • Gemini • LangChain • FAISS • Sentence Transformers
+* Git • GitHub • Linux • Postman • Celery • OpenTelemetry
 
 ---
 
-## 🎤 AI Meeting Management Platform
+## 🏆 Achievements
 
-✔ Speech-to-Text
-
-✔ AI Summarization
-
-✔ Semantic Search
-
-✔ Sentiment Analysis
-
-✔ PDF Export
-
-✔ Action Item Extraction
-
-**Tech Stack**
-
-FastAPI • PostgreSQL • Redis • Celery • Whisper • ChromaDB
+* GATE 2026 Qualified (CS & IT)
+* Salesforce Certified Agentforce Specialist
+* Advanced to Round 2 of the Guidewire DevTrails University Hackathon
+* LeetCode Rating: **1870**
 
 ---
 
-## 🩺 Parkinson Disease Detection
+## 📫 Connect with Me
 
-✔ Voice Feature Extraction
-
-✔ Random Forest Classifier
-
-✔ 90% Accuracy
-
-✔ Librosa
-
----
-
-# 🏆 Achievements
-
-🥇 GATE 2026 Qualified (CS & IT)
-
-🥇 Salesforce Agentforce Specialist
-
-🥇 Guidewire DevTrails University Hackathon — Round 2
-
-🥇 LeetCode Rating — **1870**
-
----
-
-# 💻 Coding Profiles
-
-| Platform | Rating | Solved |
-|----------|--------|--------|
-| 🟡 LeetCode | **1870** | **1150+** |
-| 🟤 CodeChef | **1525** | **159** |
-| 🔵 Codeforces | **902** | **71** |
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aishu1824&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishu1824&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aishu1824&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏅 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aishu1824&theme=discord&no-frame=true&margin-w=10"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aishu1824&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Aishu1824/Aishu1824/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🌟 Quote
-
-<div align="center">
-
-> *"First, solve the problem. Then, write the code."*
-
-</div>
-
----
-
-# 🌍 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/aishwarya-g-513531237">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:ga7171715@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/Aishu1824">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile! ⭐
-
-### 🚀 Let's Build Something Amazing Together 🚀
-
-</div>
-
+* GitHub: https://github.com/Aishu1824
+* LinkedIn: https://linkedin.com/in/aishwarya-g-513531237
+* Email: [ga7171715@gmail.com](mailto:ga7171715@gmail.com)
